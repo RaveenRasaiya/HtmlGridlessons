@@ -1,0 +1,20 @@
+.background_image{
+    background:url("../assets/home_banner_backgound.jpg") no-repeat;
+    height: 300px;
+}
+
+.home_header{    
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.home_header_top{
+    margin-top: 150px;
+}
+
+.button_get_started{
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #EE6E01;
+    color: white;
+}

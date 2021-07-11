@@ -1,0 +1,8 @@
+.container_common {
+    display: flex;  
+    flex-wrap: wrap;  
+  }
+
+  .flex_item{
+      min-width: 200px;
+  }
